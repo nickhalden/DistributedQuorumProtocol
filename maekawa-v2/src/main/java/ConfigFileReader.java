@@ -1,10 +1,3 @@
-/* AOS Project 1
- * Submitted by Mahesh Kothagere Siddalingappa 
- * netId : mxk145330
- * Course number: 6378
- * Section: 002
- * Fall 2016
- */
 
 
 import java.io.*;
